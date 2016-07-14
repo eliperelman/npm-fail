@@ -1,0 +1,7 @@
+{
+  "name": "npm-fail-sub",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo 'success'"
+  }
+}
